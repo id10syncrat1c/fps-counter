@@ -1,0 +1,7 @@
+[
+  {
+    "id": "$fpscounter_technical00",
+    "type": "script",
+    "script": "main.lua"
+  }
+]
