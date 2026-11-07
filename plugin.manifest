@@ -1,0 +1,9 @@
+{
+  "id": "id10syncrat1c_fps_counter",
+  "version": 1,
+  "title": "FPS Counter",
+  "text": "A lightweight FPS and frame-time overlay with a rolling performance graph.",
+  "author": "id10syncrat1c",
+  "url": "https://github.com/id10syncrat1c/fps-counter",
+  "multiplayer": true
+}
